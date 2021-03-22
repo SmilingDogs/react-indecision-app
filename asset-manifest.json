@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-indecision-app/static/css/main.9d71e241.chunk.css",
+    "main.js": "/react-indecision-app/static/js/main.761dc512.chunk.js",
+    "main.js.map": "/react-indecision-app/static/js/main.761dc512.chunk.js.map",
+    "runtime-main.js": "/react-indecision-app/static/js/runtime-main.54112f86.js",
+    "runtime-main.js.map": "/react-indecision-app/static/js/runtime-main.54112f86.js.map",
+    "static/js/2.901c7d53.chunk.js": "/react-indecision-app/static/js/2.901c7d53.chunk.js",
+    "static/js/2.901c7d53.chunk.js.map": "/react-indecision-app/static/js/2.901c7d53.chunk.js.map",
+    "static/js/3.b8d53b9f.chunk.js": "/react-indecision-app/static/js/3.b8d53b9f.chunk.js",
+    "static/js/3.b8d53b9f.chunk.js.map": "/react-indecision-app/static/js/3.b8d53b9f.chunk.js.map",
+    "index.html": "/react-indecision-app/index.html",
+    "static/css/main.9d71e241.chunk.css.map": "/react-indecision-app/static/css/main.9d71e241.chunk.css.map",
+    "static/js/2.901c7d53.chunk.js.LICENSE.txt": "/react-indecision-app/static/js/2.901c7d53.chunk.js.LICENSE.txt",
+    "static/js/main.761dc512.chunk.js.LICENSE.txt": "/react-indecision-app/static/js/main.761dc512.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54112f86.js",
+    "static/js/2.901c7d53.chunk.js",
+    "static/css/main.9d71e241.chunk.css",
+    "static/js/main.761dc512.chunk.js"
+  ]
+}

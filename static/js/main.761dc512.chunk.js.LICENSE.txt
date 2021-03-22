@@ -1,0 +1,1 @@
+//!LocalStorage only works with string data!!!! key-value === strings
