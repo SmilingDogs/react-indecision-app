@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-indecision-app/static/css/main.6adce4b0.chunk.css",
-    "main.js": "/react-indecision-app/static/js/main.63dd1937.chunk.js",
-    "main.js.map": "/react-indecision-app/static/js/main.63dd1937.chunk.js.map",
+    "main.js": "/react-indecision-app/static/js/main.22ee17e9.chunk.js",
+    "main.js.map": "/react-indecision-app/static/js/main.22ee17e9.chunk.js.map",
     "runtime-main.js": "/react-indecision-app/static/js/runtime-main.17b841b5.js",
     "runtime-main.js.map": "/react-indecision-app/static/js/runtime-main.17b841b5.js.map",
     "static/js/2.47288702.chunk.js": "/react-indecision-app/static/js/2.47288702.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.17b841b5.js",
     "static/js/2.47288702.chunk.js",
     "static/css/main.6adce4b0.chunk.css",
-    "static/js/main.63dd1937.chunk.js"
+    "static/js/main.22ee17e9.chunk.js"
   ]
 }
